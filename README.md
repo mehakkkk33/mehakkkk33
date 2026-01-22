@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mehak Batra. I'm a B.Tech CSE student currently working on Web Development and improving my programming fundamentals. <br><br>My technical work includes:<br>•Full stack Web Development <br>• Programming — Java, Python, C<br>• Data Structures & Algorithms — currently practicing and strengthening concepts<br>• Machine Learning — basic familiarity with concepts and workflows<br><br>I enjoy learning new technologies, building projects, and expanding my understanding of core computer science topics.<br>
+Hi, I'm Mehak Batra. I'm a B.Tech CSE student currently working on Web Development and improving my programming fundamentals. <br><br>My technical work includes:<br>•Full stack Web Development <br> • Programming — Java, Python, C<br>• Data Structures & Algorithms — currently practicing and strengthening concepts<br>• Machine Learning — basic familiarity with concepts and workflows<br><br>I enjoy learning new technologies, building projects, and expanding my understanding of core computer science topics.<br>
 
 
 ## 🌐 Socials:
