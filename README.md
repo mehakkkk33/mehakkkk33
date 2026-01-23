@@ -1,4 +1,7 @@
- Mehak Batra
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120&section=header&text=Mehak%20Batra&fontColor=00ffea&fontSize=45&animation=fadeIn&fontAlignY=55"/>
+</p>
+
 ====================================================================================================================================
 
 Full-Stack Developer | Interactive UI + Robust Backend | Python • Java • C/C++ • JavaScript | DSA & Problem Solving
