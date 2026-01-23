@@ -3,8 +3,12 @@
 </p>
 
 
-<div style="border: 2px solid #00ff41; border-radius: 8px; padding: 18px; background: #0a0f0a; color: #00ff41; font-family: Consolas, monospace;">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=5&section=header"/>
+</p>
 
+<div align="left" style="background:#0a0f0a; padding:18px; border:2px solid #00ff41; border-radius:10px; color:#00ff41; font-family:Consolas, monospace; font-size:14px;">
+  
 💻 <b>Full-Stack Developer</b> | 🧩 <b>DSA & Problem Solving</b> | 🤖 <b>ML Explorer</b>
 
 📍 Based in <b>India</b>  
@@ -15,9 +19,16 @@ Java • Python • C/C++ • JavaScript • Node.js • Express • MongoDB •
 
 🎨 Passion for clean UI, modern interactions, developer tooling, and smooth frontend-backend bridges  
 
-🚀 Currently exploring DSA, Web Development, and Machine Learning  
+🚀 Currently exploring <b>DSA</b>, <b>Web Development</b>, and <b>Machine Learning</b>  
 
-🤝 Open to collaborations, internships & student-tech projects  
+🤝 Open to <b>collaborations, internships & student-tech projects</b>  
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=5&section=footer"/>
+</p>
+
 
 </div>
 
