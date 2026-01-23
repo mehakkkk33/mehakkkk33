@@ -2,17 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120&section=header&text=Mehak%20Batra&fontColor=00ffea&fontSize=45&animation=fadeIn&fontAlignY=55"/>
 </p>
 
-====================================================================================================================================
 
-Full-Stack Developer | Interactive UI + Robust Backend | Python • Java • C/C++ • JavaScript | DSA & Problem Solving
+<div style="border: 2px solid #00ff41; border-radius: 8px; padding: 18px; background: #0a0f0a; color: #00ff41; font-family: Consolas, monospace;">
 
-🌍  I'm based in India
- 🎓 **BTech Computer Science – 2nd Year**
-- 💻 Focused on:-  Web Development, Java and Problem solving.
-- 🧠 Working with:-  Java • Python • C/C++ • JavaScript • Node.js • Express • MongoDB • MySQL • NumPy • Pandas • Git • GitHub
-- 🎨 Love clean UI, animations & modern layouts
-- 🚀 Currently exploring:-  Web Development, DSA, Machine Learning
-- 🤝 Open for collabs, internships & hackathons.
+💻 <b>Full-Stack Developer</b> | 🧩 <b>DSA & Problem Solving</b> | 🤖 <b>ML Explorer</b>
+
+📍 Based in <b>India</b>  
+🎓 <b>B.Tech CSE – 2nd Year</b>
+
+🧠 <b>Tech I Work With:</b>  
+Java • Python • C/C++ • JavaScript • Node.js • Express • MongoDB • MySQL • NumPy • Pandas • Git • GitHub
+
+🎨 Passion for clean UI, modern interactions, developer tooling, and smooth frontend-backend bridges  
+
+🚀 Currently exploring DSA, Web Development, and Machine Learning  
+
+🤝 Open to collaborations, internships & student-tech projects  
+
+</div>
 
 ## 🌐 Contact :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/batra-mehak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:batramehak814@gmail.com) 
