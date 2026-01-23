@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitch&color=000000&height=120&section=header&text=MEHAK%20BATRA&fontColor=FF007F&fontSize=50&animation=fadeIn"/>
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FBFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;DSA+%2B+Problem+Solver;Machine+Learning+Explorer;>+Accessing+Mainframe...">
 </div>
@@ -11,66 +7,25 @@
 <div align="center">
 <table width="900px">
   <tr>
-    <td style="background-color: #0d1117; border: 2px solid #FF007F; border-radius: 10px; padding: 25px;">
-      <h2 align="center" style="color: #00FBFF; border-bottom: none; font-family: 'Courier New';">🌐 [TERMINAL_ACCESS: GRANTED]</h2>
-      <p style="color: #FF007F; font-family: 'Courier New', Courier, monospace; font-size: 16px;">
-        <span style="color: #00FBFF;"><b>> NAME:</b></span> Mehak Batra <br>
-        <span style="color: #00FBFF;"><b>> STATUS:</b></span> B.Tech CSE (4th Sem) <br>
-        <span style="color: #00FBFF;"><b>> STACK:</b></span> MERN + Java (DSA) <br>
-        <span style="color: #00FBFF;"><b>> MISSION:</b></span> Engineering clean UI & robust architectures.
-      </p>
-      <hr style="border: 0.5px solid #00FBFF;">
-      <p style="color: #FF007F; font-family: 'Courier New', Courier, monospace; font-size: 14px;">
-        🚀 <b>LATEST_DATA_EXPANSION:</b><br>
-        - Mastering Advanced Data Structures & Algorithms<br>
-        - Scaling Web Applications with Node & MongoDB<br>
-        - Exploring Neural Network Fundamentals
-      </p>
+    <td style="background-color: #FF007F; border: 3px solid #00FBFF; border-radius: 15px; padding: 30px; box-shadow: 0px 0px 20px #FF007F;">
       <div align="center">
-        <a href="mailto:batramehak814@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-        <a href="https://linkedin.com/in/batra-mehak"><img src="https://img.shields.io/badge/LINKEDIN-00FBFF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+        <h2 style="color: #000000; font-family: 'Courier New', monospace; border-bottom: 2px solid #000000; display: inline-block; padding-bottom: 5px;">🧬 SYSTEM_PROFILE: MEHAK BATRA</h2>
       </div>
+      <p style="color: #000000; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
+        💻 <b>Full-Stack Developer</b> | 🧩 <b>DSA & Problem Solving</b> | 🤖 <b>ML Explorer</b> <br><br>
+        📍 Based in <b>India</b> <br>
+        🎓 <b>B.Tech CSE – 4th Semester</b> <br><br>
+        🧠 <b>Tech I Work With:</b> <br>
+        Java • Python • C/C++ • JavaScript • Node.js • Express • MongoDB • MySQL • NumPy • Pandas • Git • GitHub <br><br>
+        🎨 Passion for clean UI, modern interactions, developer tooling, and smooth frontend-backend bridges <br><br>
+        🚀 Currently exploring <b>DSA</b>, <b>Web Development</b>, and <b>Machine Learning</b> <br><br>
+        🤝 Open to <b>collaborations, internships & student-tech projects</b>
+      </p>
     </td>
   </tr>
 </table>
 </div>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF007F&size=25&center=true&vCenter=true&width=500&lines=📂+SKILL_REPOSITORY.EXE">
-</p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css&theme=dark" height="55" alt="languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,git,github&theme=dark" height="55" alt="frameworks" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,canva,ae,ps&theme=dark" height="55" alt="tools" />
-</div>
-
----
-
-<h2 align="center" style="color: #FF007F;">📊 NEURAL_NETWORK_ANALYTICS</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehakkkk33&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&text_color=00FBFF&icon_color=FF007F&title_color=FF007F" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakkkk33&layout=compact&theme=tokyonight&hide_border=false&text_color=00FBFF&title_color=FF007F" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehakkkk33&theme=tokyonight&hide_border=false&stroke=FF007F&ring=00FBFF&fire=FF007F&currStreakNum=00FBFF" width="94%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF007F&height=10&section=footer&animation=fadeIn"/>
-  <br>
-  <font color="#FF007F">© 2026 Mehak Batra | Logged in as: User_01</font>
-</p>
-
-</div>
 
 ## 🌐 Contact :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/batra-mehak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:batramehak814@gmail.com) 
