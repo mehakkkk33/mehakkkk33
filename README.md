@@ -32,22 +32,6 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 ---
 
 
-## 📡 **Connect With Me**
-
-<div align="center">
-  <a href="https://github.com/mehakbatra">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/batra-mehak">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:batramehak814@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=22&width=300&lines=My+Tech+Stack" />
 </p>
@@ -132,6 +116,23 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="40" height="40" style="margin-right:10px;" /></a>
 
 </p>
+
+---
+
+## 📡 **Connect With Me**
+
+<div align="center">
+  <a href="https://github.com/mehakbatra">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/batra-mehak">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:batramehak814@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 
 ---
 
