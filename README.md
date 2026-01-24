@@ -1,13 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FBFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;DSA+%2B+Problem+Solver;Machine+Learning+Explorer;>+Accessing+Mainframe...">
-</div>
 
----
-
-<div align="center">
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;DSA+%7C+Machine+Learning+%7C+Web+Development;Exploring+Software+and+the+Universe+🪐;Learning%2C+Building%2C+Shipping+%26+Iterating" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;DSA+%7C+Machine+Learning+%7C+Web+Development;Exploring+Software+and+the+Universe+🪐;Learning%2C+Building%2C+Shipping%2C+Iterating" />
 
 </div>
 
@@ -30,21 +23,9 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ## 🔭 **Tech Stack**
 
-**Languages**
-
-`Java` `Python` `C/C++` `JavaScript`
-
-**Web / Backend**
-
-`Node.js` `Express` `MongoDB` `MySQL`
-
-**ML / Data**
-
-`NumPy` `Pandas`
-
-**Tools**
-
-`Git` `GitHub` `VS Code`
+`Java` `Python` `C/C++` `JavaScript`  
+`Node.js` `Express` `MongoDB` `MySQL`  
+`NumPy` `Pandas` `Git` `GitHub` `VS Code`
 
 ---
 
@@ -52,23 +33,20 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 <div align="center">
 
-<!-- Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=mehakbatra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="150"/>
 
-<!-- Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakbatra&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
 
-<!-- Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehakbatra&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
 
 </div>
 
 ---
 
-## 🐍 **Contribution Snake (Space Mode)**
+## 🐍 **Contribution Snake**
 
 <div align="center">
-<img src="https://github.com/mehakbatra/mehakbatra/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/mehakbatra/mehakbatra/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
@@ -79,7 +57,7 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
   <a href="https://github.com/mehakbatra">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mehakbatra">
+  <a href="https://www.linkedin.com/in/batra-mehak">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:batramehak814@gmail.com">
@@ -87,22 +65,7 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
   </a>
 </div>
 
----
 
-<div align="center">
-  
-✨ _"Building software while dreaming of galaxies."_ 🪐
-
-</div>
-
-
-
-## 🌐 Contact :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/batra-mehak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:batramehak814@gmail.com) 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/mehakkkk33" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/MehakBatra33" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/batra-mehak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/mehak_1221" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=22&width=300&lines=My+Tech+Stack" />
@@ -189,6 +152,10 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 </p>
 
+---
 
+<div align="center">
+✨ _building software while dreaming of galaxies_ 🪐
+</div>
 
 
