@@ -16,7 +16,7 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=22&width=300&lines=My+Tech+Stack" />
 </p>
 
