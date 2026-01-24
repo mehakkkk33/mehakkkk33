@@ -16,22 +16,6 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ---
 
-
-## ⚙️ **GitHub Analytics**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mehakbatra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakbatra&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehakbatra&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-
-</div>
-
----
-
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=22&width=300&lines=My+Tech+Stack" />
 </p>
@@ -133,6 +117,21 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
   </a>
 </div>
 
+
+---
+
+
+## ⚙️ **GitHub Analytics**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mehakbatra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakbatra&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehakbatra&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+
+</div>
 
 ---
 
