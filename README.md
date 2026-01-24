@@ -5,26 +5,96 @@
 ---
 
 <div align="center">
-<table width="900px">
-  <tr>
-    <td style="background-color: #FF007F; border: 3px solid #00FBFF; border-radius: 15px; padding: 30px; box-shadow: 0px 0px 20px #FF007F;">
-      <div align="center">
-        <h2 style="color: #000000; font-family: 'Courier New', monospace; border-bottom: 2px solid #000000; display: inline-block; padding-bottom: 5px;">🧬 SYSTEM_PROFILE: MEHAK BATRA</h2>
-      </div>
-      <p style="color: #000000; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
-        💻 <b>Full-Stack Developer</b> | 🧩 <b>DSA & Problem Solving</b> | 🤖 <b>ML Explorer</b> <br><br>
-        📍 Based in <b>India</b>
-        🎓 <b>B.Tech CSE – 4th Semester</b> <br>
-        🧠 <b>Tech I Work With:</b> <br>
-        Java • Python • C/C++ • JavaScript • Node.js • Express • MongoDB • MySQL • NumPy • Pandas • Git • GitHub <br>
-        🎨 Passion for clean UI, modern interactions, developer tooling, and smooth frontend-backend bridges <br><br>
-        🚀 Currently exploring <b>DSA</b>, <b>Web Development</b>, and <b>Machine Learning</b> <br>
-        🤝 Open to <b>collaborations, internships & student-tech projects</b>
-      </p>
-    </td>
-  </tr>
-</table>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;DSA+%7C+Machine+Learning+%7C+Web+Development;Exploring+Software+and+the+Universe+🪐;Learning%2C+Building%2C+Shipping+%26+Iterating" />
+
 </div>
+
+---
+
+## 🪐 **About Me**
+
+I'm **Mehak Batra**, a **CSE undergraduate** exploring software systems through  
+**Web Development**, **DSA in Java**, and **Machine Learning**.
+
+Curious about space, curious about code —  
+I like building things that feel **clean**, **intentional**, and **future-ready**.
+
+- 🌍 Based in **India**
+- 🎓 **B.Tech CSE — 4th Semester**
+- 🚀 Interested in **developer tooling, clean UI, backend systems, and ML**
+- 🤝 Open to **student collabs, open-source, and internships**
+
+---
+
+## 🔭 **Tech Stack**
+
+**Languages**
+
+`Java` `Python` `C/C++` `JavaScript`
+
+**Web / Backend**
+
+`Node.js` `Express` `MongoDB` `MySQL`
+
+**ML / Data**
+
+`NumPy` `Pandas`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## ⚙️ **GitHub Analytics**
+
+<div align="center">
+
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mehakbatra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="150"/>
+
+<!-- Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakbatra&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehakbatra&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+
+</div>
+
+---
+
+## 🐍 **Contribution Snake (Space Mode)**
+
+<div align="center">
+<img src="https://github.com/mehakbatra/mehakbatra/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 📡 **Connect With Me**
+
+<div align="center">
+  <a href="https://github.com/mehakbatra">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mehakbatra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:batramehak814@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+✨ _"Building software while dreaming of galaxies."_ 🪐
+
+</div>
+
 
 
 ## 🌐 Contact :
