@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;DSA+%7C+Machine+Learning+%7C+Web+Development;Exploring+Software+and+the+Universe+🪐;Learning%2C+Building%2C+Shipping%2C+Iterating" />
-
-</div>
 
 ---
 
@@ -21,13 +16,6 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ---
 
-## 🔭 **Tech Stack**
-
-`Java` `Python` `C/C++` `JavaScript`  
-`Node.js` `Express` `MongoDB` `MySQL`  
-`NumPy` `Pandas` `Git` `GitHub` `VS Code`
-
----
 
 ## ⚙️ **GitHub Analytics**
 
@@ -43,13 +31,6 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ---
 
-## 🐍 **Contribution Snake**
-
-<div align="center">
-<img src="https://github.com/mehakbatra/mehakbatra/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
----
 
 ## 📡 **Connect With Me**
 
