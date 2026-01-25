@@ -14,7 +14,7 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 - 🚀 Interested in **developer tooling, clean UI, backend systems, and ML**
 - 🤝 Open to **student collabs, open-source, and internships**
 
----
+----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=22&width=300&lines=My+Tech+Stack" />
