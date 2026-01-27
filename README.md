@@ -12,7 +12,7 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 - 🌍 Based in **India**
 - 🎓 **B.Tech CSE — 4th Semester**
 - 🚀 Interested in **developer tooling, clean UI, backend systems, and ML**
-- 🤝 Open to **student collabs, open-source, and internships**
+- 🤝 Open to **student collabs, open-source, and internships**.
 
 ----
 
