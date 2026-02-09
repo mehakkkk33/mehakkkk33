@@ -7,7 +7,7 @@ I'm **Mehak Batra**, a **CSE undergraduate** exploring software systems through
 **Web Development**, **DSA in Java**, and **Machine Learning**.
 
 Curious about space, curious about code —  
-I like building things that feel **clean**, **intentional**, and **future-ready**
+I like building things that feel **clean**, **intentional**, and **future-ready**.
 
 - 🌍 Based in **India**
 - 🎓 **B.Tech CSE — 4th Semester**
