@@ -124,7 +124,7 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 
 <div align="center">
-✨ _building software while dreaming of galaxies_ 🪐
+🪐 _building software while dreaming of galaxies_ 🪐
 </div>
 
 
