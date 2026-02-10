@@ -3,7 +3,7 @@
 
 ## 🪐 **About Me**
 
-I'm **Mehak Batra**, a **CSE undergraduate** exploring software systems through  
+I'm **Mehak Batra**, a **CSE undergraduate** exploring Computer science through  
 **Web Development**, **DSA in Java**, and **Machine Learning**.
 
 Curious about space, curious about code —  
