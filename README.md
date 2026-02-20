@@ -1,131 +1,137 @@
-<!-- 🌌 SPACE BANNER / PORTFOLIO PREVIEW -->
 
-<p align="center">
-  <a href="https://mehakkkk33.github.io/portfolio/">
-    <img src="YOUR-THUMBNAIL-LINK-HERE" width="100%" />
-  </a>
-</p>
 
----
+## 🪐 **About Me**
 
-## 🪐 About Me
-
-I'm **Mehak Batra**, a **CSE undergraduate** exploring Computer Science through
+I'm **Mehak Batra**, a **CSE undergraduate** exploring Computer science through  
 **Web Development**, **DSA in Java**, and **Machine Learning**.
-
-Curious about space, curious about code —
-I like building things that feel **clean**, **intentional**, and future-ready.
-
-* 🌍 Based in **India**
-* 🎓 **B.Tech CSE — 4th Semester**
-* 📌 Interested in **Developer Tooling, Backend Systems, Clean UI & ML**
-* 🤝 Open to **Open Source • Internships • Collaborations**
-
----
 
 ## 🌐 My Portfolio
 
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mehakkkk33.github.io/portfolio/)
+
+
+Curious about space, curious about code —  
+I like building things that feel **clean**, **intentional**, and **future-ready**.
+
+- 🌍 Based in **India**
+- 🎓 **B.Tech CSE — 4th Semester**
+- 📌 Interested in **developer tooling, clean UI, backend systems, and ML**
+- 🤝 Open to **student collabs, open-source, and internships**.
+
+----
+
 <p align="center">
-  <a href="https://mehakkkk33.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/My%20Tech%20Stack-ff0059?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0A66C2&height=120&section=divider"/>
-</p>
-
----
-
-## 🧑‍🚀 Tech Arsenal
-
 <p align="center">
 
-<!-- Languages -->
-
-<a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45"/>
+<!-- Programming Languages -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.oracle.com/java/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="45"/>
+<a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://docs.microsoft.com/en-us/cpp/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="45"/>
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<!-- Web -->
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45"/>
+<!-- Web Development -->
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.w3.org/TR/CSS/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45"/>
+<a href="https://www.w3.org/TR/CSS/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://reactjs.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45"/>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://nextjs.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="45"/>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://tailwindcss.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45"/>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" />
+</a>&nbsp;&nbsp;
+
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
 <!-- Backend -->
-
-<a href="https://nodejs.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45"/>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://expressjs.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="45"/>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="45" />
+</a>&nbsp;&nbsp;
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="45" />
+</a>&nbsp;&nbsp;
+
+<a href="https://docs.nestjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
 <!-- Databases -->
-
-<a href="https://www.mongodb.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45"/>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.mysql.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45"/>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<!-- ML -->
-
-<a href="https://numpy.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<!-- Machine Learning -->
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://pandas.pydata.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://scikit-learn.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" />
 </a>&nbsp;&nbsp;
 
-<a href="https://pytorch.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
+</a>&nbsp;&nbsp;
+
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" />
+</a>&nbsp;&nbsp;
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="45" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" />
 </a>
 
 </p>
 
+
 ---
 
-## 📡 Connect With Me
+## 📡 **Connect With Me**
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/mehakkkk33">
@@ -141,84 +147,60 @@ I like building things that feel **clean**, **intentional**, and future-ready.
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0A66C2&height=120&section=divider"/>
-</p>
 
 ---
-
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehakkkk33&theme=tokyonight" width="900"/>
 </p>
 
+-------
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehakkkk33&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+----
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+----
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehakkkk33&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+-----
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehakkkk33&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakkkk33&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+----
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehakkkk33&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=mehakkkk33&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🏆 Achievements
+-----
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehakkkk33&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://img.shields.io/badge/Currently%20Exploring-Space%20Tech-6f42c1?style=for-the-badge&logo=spacex&logoColor=white" />
 </p>
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehakkkk33&theme=tokyo-night&area=true&hide_border=true"/>
-</p>
-
----
-
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehakkkk33&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Project
+----
 
 <p align="center">
   <a href="https://github.com/mehakkkk33/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakkkk33&repo=portfolio&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakkkk33&repo=portfolio&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
----
 
-## 🛰️ Currently Exploring
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Exploring-Space%20Tech-6f42c1?style=for-the-badge&logo=spacex&logoColor=white"/>
-</p>
 
----
 
 <div align="center">
-
-🪐 *Building software that orbits around impact*
-🚀 *Dreaming in code, thinking in galaxies*
-
+🪐 _building software while dreaming of galaxies_ 🪐
 </div>
