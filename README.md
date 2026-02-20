@@ -20,13 +20,10 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ----
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg,#ff0059,#8a2be2,#00c3ff);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;">
-    🚀 My Tech Stack
-  </span>
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/My%20Tech%20Stack-ff0059?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
