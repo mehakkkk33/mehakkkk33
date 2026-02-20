@@ -150,6 +150,7 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 
 ---
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehakkkk33&theme=tokyonight" />
 
 
 
