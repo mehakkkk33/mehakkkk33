@@ -20,9 +20,13 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ----
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=22&width=300&lines=My+Tech+Stack" />
-</p>
+<h2 align="center">
+  <span style="background: linear-gradient(90deg,#ff0059,#8a2be2,#00c3ff);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
+    🚀 My Tech Stack
+  </span>
+</h2>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
