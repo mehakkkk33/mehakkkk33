@@ -131,17 +131,22 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ## 📡 **Connect With Me**
 
-<div align="center">
-  <a href="https://github.com/mehakbatra">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/mehakkkk33">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/batra-mehak">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:batramehak814@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
-</div>
+</p>
+
 
 
 ---
