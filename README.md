@@ -129,9 +129,7 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ---
 
-## 📡 **Connect With Me**
-
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center"> **Connect With Me** </h2>
 
 <p align="center">
   <a href="https://github.com/mehakkkk33">
@@ -168,34 +166,13 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ----
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehakkkk33&theme=radical&no-frame=true&row=1&column=6" />
-</p>
------
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehakkkk33&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakkkk33&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-----
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mehakkkk33&theme=tokyonight&hide_border=true" />
 </p>
 -----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Exploring-Space%20Tech-6f42c1?style=for-the-badge&logo=spacex&logoColor=white" />
-</p>
-
-----
-
-<p align="center">
-  <a href="https://github.com/mehakkkk33/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakkkk33&repo=portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 
 
