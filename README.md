@@ -129,7 +129,7 @@ I like building things that feel **clean**, **intentional**, and **future-ready*
 
 ---
 
-<h2 align="center"> **Connect With Me** </h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/mehakkkk33">
