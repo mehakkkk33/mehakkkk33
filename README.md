@@ -172,9 +172,9 @@ I focus on building solutions that are **clean, intentional, and designed with l
   <img src="https://streak-stats.demolab.com?user=mehakkkk33&theme=tokyonight&hide_border=true" />
 </p>
 -----
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+<p align="left">
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="80" />
+</p>
 
 
 
