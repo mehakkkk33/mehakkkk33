@@ -10,13 +10,13 @@ I'm **Mehak Batra**, a **CSE undergraduate** exploring Computer science through
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mehakkkk33.github.io/portfolio/)
 
 
-Curious about space, curious about code —  
-I like building things that feel **clean**, **intentional**, and **future-ready**.
+I’m driven by curiosity — about space, technology, and the systems that power the future.
+I focus on building solutions that are **clean, intentional, and designed with long-term impact in mind**.
 
-- 🌍 Based in **India**
-- 🎓 **B.Tech CSE — 4th Semester**
-- 📌 Interested in **developer tooling, clean UI, backend systems, and ML**
-- 🤝 Open to **student collabs, open-source, and internships**.
+* 🌍 Based in **India**
+* 🎓 **Bachelor’s in Computer Science Engineering**
+* 📌 Strong interest in **developer tooling, modern UI engineering, backend systems, and machine learning**
+* 🤝 Open to **student collaborations, open-source contributions, and internship opportunities**
 
 ----
 
