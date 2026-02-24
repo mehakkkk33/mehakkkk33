@@ -1,10 +1,5 @@
 
 
-## 🪐 **About Me**
-
-I'm **Mehak Batra**, a **CSE undergraduate** exploring Computer science through  
-**Web Development**, **DSA in Java**, and **Machine Learning**.
-
 ## 🌐 My Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mehakkkk33.github.io/portfolio/)
