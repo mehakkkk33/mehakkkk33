@@ -160,11 +160,6 @@ I focus on building solutions that are **clean, intentional, and designed with l
 
 ----
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-----
 
 
 
