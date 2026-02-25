@@ -170,6 +170,3 @@ I focus on building solutions that are **clean, intentional, and designed with l
 
 
 
-<div align="center">
-🪐 _building software while dreaming of galaxies_ 🪐
-</div>
