@@ -146,12 +146,6 @@ I focus on building solutions that are **clean, intentional, and designed with l
 </p>
 
 
-
----
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehakkkk33&theme=tokyonight" width="900"/>
-</p>
-
 -------
 
 <p align="center">
