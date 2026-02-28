@@ -148,11 +148,6 @@ I focus on building solutions that are **clean, intentional, and designed with l
 
 -------
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehakkkk33&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
-----
 
 
 
