@@ -19,10 +19,8 @@ I focus on building solutions that are **clean, intentional, and designed with l
 ----
 
 <p align="center">
-  <img src="https://img.shields.io/badge/My%20Tech%20Stack-ff0059?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/My%20Tech%20Stack-007ACC?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-<p align="center">
 
 <!-- Programming Languages -->
 <a href="https://www.python.org/" target="_blank">
