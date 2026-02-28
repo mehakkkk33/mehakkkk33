@@ -152,10 +152,5 @@ I focus on building solutions that are **clean, intentional, and designed with l
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehakkkk33&theme=tokyonight&hide_border=true" />
-</p>
------
-
 
 
