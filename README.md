@@ -2,7 +2,7 @@
 
 ## 🪐 **About Me**
 
-I'm **Mehak Batra**, a Computer Science Undergraduate passionate about building scalable web applications and exploring the world of intelligent systems.
+I'm **Mehak Batra**, a Computer Science Undergraduate. passionate about building scalable web applications and exploring the world of intelligent systems.
 ## 🌐 My Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mehakkkk33.github.io/portfolio/)
