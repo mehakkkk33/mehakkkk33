@@ -108,9 +108,10 @@ I focus on building solutions that are **clean, intentional, and designed with l
 
 </p>
 
-<h2 align="center">🌐 Connect With Me</h2>
+
 
 <p align="center">
+<h2 align="center">🌐 Connect With Me</h2>
 
 <a href="https://github.com/mehakkkk33" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
