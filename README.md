@@ -108,25 +108,21 @@ I focus on building solutions that are **clean, intentional, and designed with l
 
 </p>
 
-<h2 align="center"> Connect With Me</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/mehakkkk33">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/batra-mehak">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:batramehak814@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
+<a href="mailto:batramehak814@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/batra-mehak">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mehakkkk33">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
-
-
--------
-
 
 
 
