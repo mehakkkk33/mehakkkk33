@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&size=25&center=true&vCenter=true&width=600&lines=Future+AI+Engineer+🚀;Building+Next+Gen+Web+Experiences;Hackathon+Explorer+💻;Always+Learning+Something+New">
+</p>
 
 ## 🪐 **About Me**
 
