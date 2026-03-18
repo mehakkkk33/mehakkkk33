@@ -129,3 +129,11 @@ I focus on building solutions that are **clean, intentional, and designed with l
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&size=25&center=true&vCenter=true&width=600&lines=Future+AI+Engineer+🚀;Building+Next+Gen+Web+Experiences;Hackathon+Explorer+💻;Always+Learning+Something+New">
 </p>
+
+<!-- ================= SNAKE ================= -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehakkkk33/mehakkkk33/output/snake.svg" alt="snake animation"/>
+</p>
