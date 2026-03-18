@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&size=25&center=true&vCenter=true&width=600&lines=Future+AI+Engineer+🚀;Building+Next+Gen+Web+Experiences;Hackathon+Explorer+💻;Always+Learning+Something+New">
-</p>
+
 
 ## 🪐 **About Me**
 
@@ -127,4 +125,7 @@ I focus on building solutions that are **clean, intentional, and designed with l
 <img src="https://skillicons.dev/icons?i=gmail" height="50" style="border:0;"/>
 </a>
 
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&size=25&center=true&vCenter=true&width=600&lines=Future+AI+Engineer+🚀;Building+Next+Gen+Web+Experiences;Hackathon+Explorer+💻;Always+Learning+Something+New">
 </p>
