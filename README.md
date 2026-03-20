@@ -1,6 +1,6 @@
 
 
-## 🪐 **About Me**
+<h2 align="center">About Me</h2>
 
 I'm **Mehak Batra**, a Computer Science Undergraduate. I'm passionate about building scalable web applications and exploring the world of intelligent systems.
 ## 🌐 My Portfolio
