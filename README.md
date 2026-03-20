@@ -5,7 +5,7 @@
 I'm **Mehak Batra**, a Computer Science Undergraduate. I'm passionate about building scalable web applications and exploring the world of intelligent systems.
 <h2 align="center"> My Portfolio</h2>
 
-<h2 align="center"> [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mehakkkk33.github.io/portfolio/)</h2>
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mehakkkk33.github.io/portfolio/)
 
 
 I’m driven by curiosity — about space, technology, and the systems that power the future.
