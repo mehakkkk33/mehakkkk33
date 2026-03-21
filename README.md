@@ -29,7 +29,7 @@ I focus on building solutions that are **clean, intentional, and designed with l
 <p align="left">
 
 <p align="center">
-<h3 align="center">🚀 My Tech Stack</h3>
+
 
 <p align="center">
 
