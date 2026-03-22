@@ -2,7 +2,6 @@
 
 I’m **Mehak Batra**, a Computer Science undergraduate passionate about building scalable web applications and exploring intelligent systems. I focus on creating impactful projects, learning by building, and continuously evolving as a developer.
 
----
 
 <h2 align="center" style="border-bottom: none;">My Portfolio</h2>
 
