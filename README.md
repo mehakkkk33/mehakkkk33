@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 
-I'm **Mehak Batra**, a Computer Science Undergraduate. I'm passionate about building scalable web applications and exploring the world of intelligent systems.
+I’m **Mehak Batra**, a Computer Science undergraduate passionate about building scalable web applications and exploring intelligent systems. I focus on creating impactful projects, learning by building, and continuously evolving as a developer.
 <h2 align="center"> My Portfolio</h2>
 
 <p align="center">
