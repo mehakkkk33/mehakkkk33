@@ -1,9 +1,10 @@
-
-
 <h2 align="center">About Me</h2>
 
 I’m **Mehak Batra**, a Computer Science undergraduate passionate about building scalable web applications and exploring intelligent systems. I focus on creating impactful projects, learning by building, and continuously evolving as a developer.
-<h2 align="center"> My Portfolio</h2>
+
+---
+
+<h2 align="center">My Portfolio</h2>
 
 <p align="center">
   <a href="https://mehakkkk33.github.io/portfolio/">
