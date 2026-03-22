@@ -4,7 +4,7 @@ I’m **Mehak Batra**, a Computer Science undergraduate passionate about buildin
 
 ---
 
-<h2 align="center">My Portfolio</h2>
+<h2 align="center" style="border-bottom: none;">My Portfolio</h2>
 
 <p align="center">
   <a href="https://mehakkkk33.github.io/portfolio/">
