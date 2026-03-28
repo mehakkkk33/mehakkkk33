@@ -1,6 +1,6 @@
-<h2 align="center">
-  <span style="color:#1f6feb;">About Me</span>
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/About%20Me-1f6feb?style=for-the-badge">
+</p>
 
 I’m **Mehak Batra**, a Computer Science undergraduate passionate about building scalable web applications and exploring intelligent systems. I focus on creating impactful projects, learning by building, and continuously evolving as a developer.
 
