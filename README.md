@@ -1,5 +1,6 @@
-<h2 align="center">About Me</h2>
-
+<h2 align="center">
+  <span style="color:#58a6ff;">About Me</span>
+</h2>
 I’m **Mehak Batra**, a Computer Science undergraduate passionate about building scalable web applications and exploring intelligent systems. I focus on creating impactful projects, learning by building, and continuously evolving as a developer.
 
 ---
