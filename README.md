@@ -11,10 +11,12 @@ I’m **Mehak Batra**, a Computer Science undergraduate passionate about buildin
   I focus on building solutions that are <b>clean, intentional, and designed with long-term impact in mind</b>.
 </p>
 
+
 * Based in India
 * Undergraduate in Computer Science Engineering
-* Passionate about building developer-centric tools, modern UI/UX systems, scalable backend architectures, and AI/ML solutions.
-* Seeking collaborative opportunities, open-source contributions, and internships to build high-impact, real-world solutions.
+* Passionate about building developer-centric tools, modern UI/UX systems, scalable backend architectures, and AI/ML solutions
+* Seeking collaborative opportunities, open-source contributions, and internships to build high-impact, real-world solutions
+
 ---
 
 <!-- SPLIT SECTION -->
