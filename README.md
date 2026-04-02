@@ -107,3 +107,9 @@ Built with a focus on clean UI, performance, and real-world impact.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&size=25&center=true&vCenter=true&width=600&lines=Future+AI+Engineer+🚀;Building+Next+Gen+Web+Experiences;Hackathon+Explorer+💻;Always+Learning+Something+New">
 </p>
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
