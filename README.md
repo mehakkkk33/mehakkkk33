@@ -73,11 +73,10 @@ I’m **Mehak Batra**, a Computer Science undergraduate passionate about buildin
 </a>
 </p>
 
-<br>
 
 <p>
- Check out my projects, UI designs, and full-stack builds.  
-Built with passion for clean UI, performance, and real-world impact.
+Explore my projects, UI designs, and full-stack applications.  
+Built with a focus on clean UI, performance, and real-world impact.
 </p>
 
 </td>
