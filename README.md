@@ -13,8 +13,8 @@ I focus on building solutions that are **clean, purposeful, and designed for las
 </p>
 
 
-* Based in India
-* Undergraduate in Computer Science Engineering
+* Based in India 📌
+* Undergraduate in Computer Science Engineering 👩🏻‍💻
 * Passionate about building developer-centric tools, modern UI/UX systems, scalable backend architectures, and AI/ML solutions
 * Seeking collaborative opportunities, open-source contributions, and internships to build high-impact, real-world solutions
 
