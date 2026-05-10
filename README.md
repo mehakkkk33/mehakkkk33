@@ -7,10 +7,11 @@ I’m **Mehak Batra**, a Computer Science undergraduate passionate about buildin
 ---
 
 <p align="center">
-  I’m driven by curiosity about space, technology, and the systems shaping the future.
-I focus on building solutions that are **clean, purposeful, and designed for lasting impact.**
-</b>.
+  I’m driven by a strong curiosity for computer science, emerging technologies, and intelligent systems shaping the future.
+I focus on building solutions that are **scalable, efficient, and designed for meaningful real-world impact.** </b>.
+
 </p>
+
 
 
 * Based in India 📌
