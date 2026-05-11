@@ -13,11 +13,12 @@ I focus on building solutions that are **scalable, efficient, and designed for m
 </p>
 
 
-
 * Based in India 📌
-* Undergraduate in Computer Science Engineering 👩🏻‍💻
-* Passionate about building developer-centric tools, modern UI/UX systems, scalable backend architectures, and AI/ML solutions
-* Seeking collaborative opportunities, open-source contributions, and internships to build high-impact, real-world solutions
+* CSE Undergraduate 👩🏻‍💻
+* Building modern web experiences & scalable systems
+* Exploring AI/ML, backend engineering, and UI/UX
+* Open to collaborations, open-source, and internships 🚀
+
 
 ---
 
