@@ -17,7 +17,7 @@ I focus on building solutions that are scalable, efficient, and designed for mea
 * CSE Undergraduate 👩🏻‍💻
 * Building modern web experiences & scalable systems
 * Exploring AI/ML, backend engineering, and UI/UX
-* Open to collaborations, open-source, and internships 🚀
+* Open to collaborations, open-source, and internships 
 
 
 ---
