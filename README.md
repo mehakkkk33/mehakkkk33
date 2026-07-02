@@ -2,23 +2,21 @@
   <img src="https://img.shields.io/badge/About%20Me-1f6feb?style=for-the-badge">
 </p>
 
-I’m **Mehak Batra**, a Computer Science undergraduate passionate about building scalable web applications and exploring intelligent systems. I enjoy creating impactful projects, solving real-world problems, and continuously improving my skills through hands-on development and learning.
+I’m **Mehak Batra**,Computer Science undergraduate passionate about building scalable web applications, solving real-world problems, and continuously learning.
 
 ---
 
 <p align="center">
-  I’m driven by a strong curiosity for computer science, emerging technologies, and intelligent systems shaping the future.
-I focus on building solutions that are scalable, efficient, and designed for meaningful real-world impact. </b>.
+  Passionate about computer science, AI, and emerging technologies. Focused on creating scalable solutions that solve real-world problems </b>.
 
 </p>
 
 
-* Based in India 📌
-* CSE Undergraduate 👩🏻‍💻
-* Building modern web experiences & scalable systems
-* Exploring AI/ML, backend engineering, and UI/UX
-* Open to collaborations, open-source, and internships 
-
+Based in India
+🎓 Computer Science Undergraduate
+💻 Passionate about Full-Stack Development
+⚙️ Exploring AI/ML, Backend Systems & UI/UX
+🤝 Seeking internships, collaborations & open-source opportunities.
 
 ---
 
@@ -46,7 +44,6 @@ I focus on building solutions that are scalable, efficient, and designed for mea
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
