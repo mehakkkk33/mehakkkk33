@@ -11,13 +11,11 @@ I’m **Mehak Batra**,Computer Science undergraduate passionate about building s
 
 </p>
 
-
-Based in India
-🎓 Computer Science Undergraduate
-💻 Passionate about Full-Stack Development
-⚙️ Exploring AI/ML, Backend Systems & UI/UX
-🤝 Seeking internships, collaborations & open-source opportunities.
-
+- 📍 Based in India
+- 🎓 Computer Science Undergraduate
+- 💻 Passionate about Full-Stack Development
+- ⚙️ Exploring AI/ML, Backend Systems & UI/UX
+- 🤝 Seeking internships, collaborations & open-source opportunities
 ---
 
 <!-- SPLIT SECTION -->
